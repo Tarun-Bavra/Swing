@@ -1,2 +1,2 @@
 # Swing
-This is just basic discussion of Swing.
+This was just basic discussion of Swing
